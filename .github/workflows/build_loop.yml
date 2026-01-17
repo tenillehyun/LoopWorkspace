@@ -217,7 +217,6 @@ jobs:
           /bin/bash -c "$(curl -fsSL \
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           no_auth \
-          dexcom_upload_readings \
           low_carb_limit \
           now_line \
           watch_title \
